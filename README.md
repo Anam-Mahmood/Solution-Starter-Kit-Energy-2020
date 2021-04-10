@@ -1,4 +1,4 @@
-# Sign-up/Log-in to IBM Cloud Accounts: (ibm.biz/ArabAISummit)
+# Sign-up/Log-in to IBM Cloud Accounts: [Cloud Account](ibm.biz/ArabAISummit)
 
 # Prototype Climate Impact Rating Server & API
 
