@@ -156,6 +156,24 @@ https://www.runtheworld.today/app/invitation/19465
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
+![center](https://github.com/Anam-Mahmood/Solution-Starter-Kit-Energy-2020/blob/master/images/slide_images/Slide19.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/Anam-Mahmood/Solution-Starter-Kit-Energy-2020/blob/master/images/slide_images/Slide20.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/Anam-Mahmood/Solution-Starter-Kit-Energy-2020/blob/master/images/slide_images/Slide21.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/Anam-Mahmood/Solution-Starter-Kit-Energy-2020/blob/master/images/slide_images/Slide22.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/Anam-Mahmood/Solution-Starter-Kit-Energy-2020/blob/master/images/slide_images/Slide23.jpeg?raw=true)
+
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
